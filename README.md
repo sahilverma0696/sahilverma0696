@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Databases and Data structures**
+- 🔭 I’m currently working on **Stock Market indicators**
 
-- 💬 Ask me about **Distributed systems,C++,Data structures**
+- 💬 Ask me about **Distributed systems,Backend Development**
 
-- 📫 How to reach me **reachsahilverma@gmail.com**
+- 📫 Email **reachsahilverma@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f2K98ChMCHrv0--YMGi5AmaXXJoF010C/view?usp=sharing)
 
